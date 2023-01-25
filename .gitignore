@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Github PAT
+# token.txt
+
+# Hangouts Backend Script
+# hangouts-backend-text.py
+
+# Push Bash Script
+# push
